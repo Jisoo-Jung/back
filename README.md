@@ -1,4 +1,4 @@
-# 꿈터 |<a href="http://www.ggumteo.site/"> Spring Boot 프로젝트 : 창작과 협업을 위한 열린 콘텐츠 플랫폼(http://www.ggumteo.site/)</a>
+# 꿈터 |<a href="http://www.ggumteo.site/"> Spring Boot 프로젝트 : K-문화 컨텐츠 창작 지원 플랫폼(http://www.ggumteo.site/)</a>
 
 ## 🖥️ 프로젝트 소개
 
