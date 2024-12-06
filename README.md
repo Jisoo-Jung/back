@@ -128,7 +128,7 @@
 
 ## ✨ ERD
 
-<!-- ![ERD](https://github.com/user-attachments/assets/f588292d-62c7-466a-8d18-ae6a1e660a4a) -->
+![ERD](https://github.com/user-attachments/assets/f588292d-62c7-466a-8d18-ae6a1e660a4a)
 
 ## 💥 트러블슈팅
 
